@@ -36,3 +36,12 @@ Foram feitas algumas funções auxiliares:
 - A função `separaLinha` que parte uma linha (string sem newlines) numa lista de palavras;
 - A função `separaLinhas`, que parte uma lista de linhas numa lista de listas de linhas, usando como delimitador strings vazias;
 - A função `organizaCapitulos`, que recebe uma lista de listas de linhas correspondente ao texto (sem linhas em branco) dos capítulos de um sermão e retorna uma lista de capítulos como descrito em cima.
+
+
+# Tarefa 3
+
+As funções seguintes recebem como argumento um sermão organizado, como o descrito na Tarefa 2:
+
+- A função `totais` retorna um tuplo com os números totais de capítulos, parágrafos e palavras (todas as palavras do texto, incluindo título, descrição e capítulos);
+- A função `deusPeixes` retorna quantas vezes as palavras 'Deus' e 'peixes' ocorrem no mesmo parágrafo;
+- A função `maiorParagrafo` retorna o nome do capítulo com maior média de palavras por parágrafo. Caso haja mais do que um capítulo com a maior média, deverá retornar a primeira ocorrência. Assumiu-se que a média de um capítulo sem parágrafos é 0.
