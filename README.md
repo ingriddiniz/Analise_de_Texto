@@ -1,4 +1,4 @@
-# Analise_de_Texto
+# Analise de Texto
 Análise de texto usando Python <br>
 <br>
 Este é um projeto da cadeira de Programação 2 da faculdade de Ciências da Universidade do porto, cujo objetivo é análisar textos a partir de ficheiros de texto.
