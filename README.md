@@ -38,7 +38,7 @@ Foram feitas algumas funções auxiliares:
 - A função `organizaCapitulos`, que recebe uma lista de listas de linhas correspondente ao texto (sem linhas em branco) dos capítulos de um sermão e retorna uma lista de capítulos como descrito em cima.
 
 
-# Tarefa 3
+## Tarefa 3
 
 As funções seguintes recebem como argumento um sermão organizado, como o descrito na Tarefa 2:
 
