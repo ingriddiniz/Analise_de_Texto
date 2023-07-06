@@ -10,7 +10,6 @@ Original file is located at
 import pandas as pd
 from collections import Counter
 
-"""Parte 1
 
 """
 
