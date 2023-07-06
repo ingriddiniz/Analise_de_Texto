@@ -1,9 +1,9 @@
-# Analise de Texto
+# Analise do Texto "Sermão de Santo António aos Peixes"
 Análise de texto usando Python <br>
 <br>
 Este é um projeto da cadeira de Programação 2 da faculdade de Ciências da Universidade do porto, cujo objetivo é análisar textos a partir de ficheiros de texto.
 <br>
-Neste projeto processou-se o texto completo do *Sermão de Santo António aos Peixes* do *Padre António Vieira*, extrair métricas simples e reformatar o texto.  
+Neste projeto processou-se o texto completo do *Sermão de Santo António aos Peixes* do *Padre António Vieira*,no qual foram extraídas métricas simplese feita uma reformatação do texto.
   
 ## Tarefa 1
 
@@ -27,12 +27,12 @@ Por exemplo, para um sermão dado como a lista de linhas:
 ,'Parágrafo dois.'
 ]
 ```
-O resultado organizado esperado é:
+O resultado seria:
 ```python
 (['SERMÃO','DE','EXEMPLO'],[['A','título','de','exemplo.'],['Veni,','vidi,','vici.']],[('I',[['Parágrafo','um.'],['Parágrafo','dois.']])])
 ```
 
-Foram feitas algumas funções auxiliares:
+Algumas funções auxiliares foram criadas para auxiliar nessa tarefa:
 - A função `separaLinha` que parte uma linha (string sem newlines) numa lista de palavras;
 - A função `separaLinhas`, que parte uma lista de linhas numa lista de listas de linhas, usando como delimitador strings vazias;
 - A função `organizaCapitulos`, que recebe uma lista de listas de linhas correspondente ao texto (sem linhas em branco) dos capítulos de um sermão e retorna uma lista de capítulos como descrito em cima.
