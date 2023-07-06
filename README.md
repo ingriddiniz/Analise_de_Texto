@@ -1,7 +1,7 @@
 # Analise do Texto "Sermão de Santo António aos Peixes"
 Análise de texto usando Python <br>
 <br>
-Este é um projeto da cadeira de Programação 2 da faculdade de Ciências da Universidade do porto, cujo objetivo é análisar textos a partir de ficheiros de texto.
+Este é um projeto da cadeira de Programação 2 proposto pela Faculdade de Ciências da Universidade do Porto, cujo objetivo é análisar textos a partir de ficheiros de texto.
 <br>
 Neste projeto processou-se o texto completo do *Sermão de Santo António aos Peixes* do *Padre António Vieira*,no qual foram extraídas métricas simplese feita uma reformatação do texto.
   
