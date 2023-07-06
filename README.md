@@ -7,7 +7,7 @@ Neste projeto processou-se o texto completo do *Sermão de Santo António aos Pe
   
 ## Tarefa 1
 
-Foi feito um download do ficheiro [sermao.txt](../sermao.txt), que contém o texto integral do *Sermão de Santo António aos Peixes* do *Padre António Vieira*.
+Foi feito um download do ficheiro [sermao.txt](sermao.txt), que contém o texto integral do *Sermão de Santo António aos Peixes* do *Padre António Vieira*.
 
 Aprimeira função `leTexto` lê o conteúdo de um ficheiro de texto para uma lista de linhas de texto, em que cada linha de texto é uma string sem caracteres newline.
 
