@@ -45,3 +45,6 @@ As funções seguintes recebem como argumento um sermão organizado, como o desc
 - A função `totais` retorna um tuplo com os números totais de capítulos, parágrafos e palavras (todas as palavras do texto, incluindo título, descrição e capítulos);
 - A função `deusPeixes` retorna quantas vezes as palavras 'Deus' e 'peixes' ocorrem no mesmo parágrafo;
 - A função `maiorParagrafo` retorna o nome do capítulo com maior média de palavras por parágrafo. Caso haja mais do que um capítulo com a maior média, deverá retornar a primeira ocorrência. Assumiu-se que a média de um capítulo sem parágrafos é 0.
+
+## Conclusão
+O projeto permitiu aplicar conceitos práticos de processamento de texto e manipulação de dados em Python. Através das funções implementadas, conseguimos obter insights sobre o sermão e extrair informações relevantes para análise. Essa abordagem demonstrou a utilidade da programação para explorar e compreender textos de forma mais eficiente.
